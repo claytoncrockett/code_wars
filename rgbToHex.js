@@ -22,3 +22,5 @@ function setValue(x){
   arr[1] = x;
   return arr;
 }
+
+// rgb to hex converter in js
